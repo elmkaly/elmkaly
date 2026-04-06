@@ -16,6 +16,16 @@
 
 **Hostinium for Information Technology LLC** is an enterprise technology company specializing in **servers, gateway infrastructure, cybersecurity, and AI solutions** for large-scale organizations.
 
+### Our Story
+
+<div align="center">
+
+📅 **Est. 2001** · 25+ Years of Innovation
+
+</div>
+
+Founded in **2001**, our journey began under different brands, evolving through multiple ventures and specialized subsidiaries. Today, **Hostinium** stands as the **parent company** — a unified technology holding that oversees and manages our family of specialized technology companies. Each subsidiary focuses on specific market segments while benefiting from shared infrastructure, expertise, and enterprise-grade resources.
+
 ### What We Do
 
 🔐 **Cybersecurity & Infrastructure** — Enterprise-grade security solutions, server management, and gateway systems  
@@ -27,9 +37,9 @@
 
 <div align="center">
 
-| 800+ | 24/7 | Multiple | Enterprise |
-|:----:|:----:|:--------:|:----------:|
-| **Active Clients Worldwide** | **Daily Support & Services** | **Industries Served** | **Scale Solutions** |
+| 25+ | 800+ | 24/7 | Multiple | Enterprise |
+|:---:|:----:|:----:|:--------:|:----------:|
+| **Years in Business** | **Active Clients Worldwide** | **Daily Support & Services** | **Industries Served** | **Scale Solutions** |
 
 </div>
 
