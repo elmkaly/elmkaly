@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| 800+ | Multiple | Enterprise |
-|:----:|:--------:|:----------:|
-| **Clients Worldwide** | **Industries Served** | **Scale Solutions** |
+| 800+ | 24/7 | Multiple | Enterprise |
+|:----:|:----:|:--------:|:----------:|
+| **Active Clients Worldwide** | **Daily Support & Services** | **Industries Served** | **Scale Solutions** |
 
 </div>
 
