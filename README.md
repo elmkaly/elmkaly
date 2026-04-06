@@ -25,14 +25,14 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 | [**qless**](https://github.com/Hostinium/qless) | Queue, booking & point-of-sale platform for service-led venues | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square) |
 | [**Benthium**](https://github.com/Hostinium/Benthium) | Operations platform — bookings, fleet, inventory, HR & reporting | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | [**CaptureXPro**](https://github.com/Hostinium/CaptureXPro) | Document capture & processing for structured workflows | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| [**DrPure**](https://github.com/Hostinium/drpure) | Digital service platform & delivery system | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [**DrPure**](https://github.com/Hostinium/drpure) | Multi-channel distribution & commerce platform | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 ### Client & Marketing Projects
 
 | Project | Description | Tech |
 |:--------|:-----------|:-----|
 | [**Hurghada Horses**](https://github.com/Hostinium/hurghadahorses) | Horse riding tourism website — Hurghada, Red Sea, Egypt | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**AbRush**](https://github.com/Hostinium/AbRush) | Client project | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [**AbRush**](https://github.com/Hostinium/AbRush) | Curated knowledge library — articles & video content for AI training datasets | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ### Public Showcases
 
@@ -41,7 +41,7 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 | [qless-Showcase](https://github.com/Hostinium/qless-Showcase) | Queue & service-operations platform |
 | [Benthium-Showcase](https://github.com/Hostinium/Benthium-Showcase) | Modular operations platform for dive & marine businesses |
 | [CaptureXPro-Showcase](https://github.com/Hostinium/CaptureXPro-Showcase) | Document-operations platform |
-| [DrPure-Showcase](https://github.com/Hostinium/DrPure-Showcase) | Digital service platform |
+| [DrPure-Showcase](https://github.com/Hostinium/DrPure-Showcase) | Multi-channel distribution platform |
 
 ## Tech Stack
 
@@ -53,7 +53,6 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Enterprise](https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white)
