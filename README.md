@@ -63,12 +63,15 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmkaly&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=elmkaly&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="180px" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elmkaly&layout=compact&hide_border=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmkaly&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180px" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elmkaly&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 <div align="center">
