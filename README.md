@@ -63,12 +63,21 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 
 <div align="center">
 
-<a href="https://github.com/elmkaly">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmkaly&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
-</a>
-<a href="https://github.com/elmkaly">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmkaly&layout=compact&theme=radical&hide_border=false&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180px" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elmkaly&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elmkaly&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elmkaly&theme=radical" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmkaly&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmkaly&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elmkaly&theme=radical" alt="Top Languages by Repo" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmkaly&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmkaly&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elmkaly&theme=radical" alt="Top Languages by Commit" />
+</picture>
 
 <br/>
 
