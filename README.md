@@ -18,25 +18,30 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 
 ## Projects at Hostinium
 
-### Company Platforms
+### Core Platforms
 
-| Platform | Description | Tech |
-|:---------|:------------|:-----|
-| [**qless**](https://github.com/Hostinium/qless) | Queue, booking, and point-of-sale operations platform | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square) |
-| [**Benthium**](https://github.com/Hostinium/Benthium) | Operational management platform for bookings, assets, and reporting | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| [**CaptureXPro**](https://github.com/Hostinium/CaptureXPro) | Structured document capture and workflow processing platform | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| [**DrPure**](https://github.com/Hostinium/drpure) | Multi-channel distribution and commerce operations platform | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Platform A** | Internal web operations platform for service workflows | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Project | Description | Tech |
+|:--------|:-----------|:-----|
+| [**qless**](https://github.com/Hostinium/qless) | Queue, booking & point-of-sale platform for service-led venues | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square) |
+| [**Benthium**](https://github.com/Hostinium/Benthium) | Operations platform — bookings, fleet, inventory, HR & reporting | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| [**CaptureXPro**](https://github.com/Hostinium/CaptureXPro) | Document capture & processing for structured workflows | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [**DrPure**](https://github.com/Hostinium/drpure) | Multi-channel distribution & commerce platform | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+
+### Company Projects
+
+| Project | Description | Tech |
+|:--------|:-----------|:-----|
+| **Platform A** | Internal web platform for business workflows | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Platform B** | Internal content and knowledge operations platform | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-### Internal Showcases
+### Public Showcases
 
-| Showcase | Platform Focus |
-|:---------|:---------------|
-| Showcase A | Service operations workflows |
-| Showcase B | Modular operations workflows |
-| Showcase C | Document workflow operations |
-| Showcase D | Distribution workflow operations |
+| Showcase | Platform |
+|:---------|:---------|
+| [qless-Showcase](https://github.com/Hostinium/qless-Showcase) | Queue & service-operations platform |
+| [Benthium-Showcase](https://github.com/Hostinium/Benthium-Showcase) | Modular operations platform for dive & marine businesses |
+| [CaptureXPro-Showcase](https://github.com/Hostinium/CaptureXPro-Showcase) | Document-operations platform |
+| [DrPure-Showcase](https://github.com/Hostinium/DrPure-Showcase) | Multi-channel distribution platform |
 
 ## Tech Stack
 
