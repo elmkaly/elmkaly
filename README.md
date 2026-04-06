@@ -29,7 +29,7 @@
 
 | 800+ | Multiple | Enterprise |
 |:----:|:--------:|:----------:|
-| **Active Clients** | **Industries Served** | **Scale Solutions** |
+| **Clients Worldwide** | **Industries Served** | **Scale Solutions** |
 
 </div>
 
