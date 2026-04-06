@@ -27,12 +27,12 @@ Full-stack developer building enterprise software solutions. Specializing in sca
 | [**CaptureXPro**](https://github.com/Hostinium/CaptureXPro) | Document capture & processing for structured workflows | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | [**DrPure**](https://github.com/Hostinium/drpure) | Multi-channel distribution & commerce platform | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
-### Company Projects
+### Client & Marketing Projects
 
 | Project | Description | Tech |
 |:--------|:-----------|:-----|
-| **Platform A** | Internal web platform for business workflows | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Platform B** | Internal content and knowledge operations platform | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Hurghada Horses**](https://github.com/Hostinium/hurghadahorses) | Horse riding tourism website — Hurghada, Red Sea, Egypt | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**AbRush**](https://github.com/Hostinium/AbRush) | Curated knowledge library — articles & video content for AI training datasets | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ### Public Showcases
 
