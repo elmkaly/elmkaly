@@ -12,11 +12,30 @@
 
 ---
 
-## About
+## About Hostinium
 
-Full-stack developer building enterprise software solutions. Specializing in scalable platforms for hospitality, healthcare, document processing, and service-led businesses.
+**Hostinium for Information Technology LLC** is an enterprise technology company specializing in **servers, gateway infrastructure, cybersecurity, and AI solutions** for large-scale organizations.
 
-## Projects at Hostinium
+### What We Do
+
+🔐 **Cybersecurity & Infrastructure** — Enterprise-grade security solutions, server management, and gateway systems  
+🤖 **AI & Automation** — Intelligent systems and machine learning solutions for business optimization  
+💼 **Custom Software Development** — Tailored enterprise applications built to match specific industry requirements  
+📊 **Business Consulting** — Operational planning, feasibility studies, and digital transformation strategies
+
+### Our Reach
+
+<div align="center">
+
+| 800+ | Multiple | Enterprise |
+|:----:|:--------:|:----------:|
+| **Active Clients** | **Industries Served** | **Scale Solutions** |
+
+</div>
+
+> The projects showcased below represent a sample of our recent work. Our full portfolio spans **hospitality, healthcare, logistics, finance, retail, and government sectors**.
+
+## Featured Projects
 
 ### Core Platforms
 
